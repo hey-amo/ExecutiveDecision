@@ -21,7 +21,7 @@ class Player: NSObject, Identifiable {
 }
 
 // Represents a player's bid for raw materials
-struct RawMaterialBid {
+struct PlayerRawMaterialBid {
     let material: RawMaterial
     let units: Int
     let bidPrice: Int
@@ -38,7 +38,7 @@ struct RawMaterialBid {
 }
 
 // Represents a player's offering of finished goods
-struct ProductOffering {
+struct PlayerProductOffering {
     let productType: ProductType
     let units: Int
     let askPrice: Int
