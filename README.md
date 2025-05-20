@@ -44,7 +44,7 @@ Easy to learn, but interesting strategies. Somewhat mechanical, but a good game 
 
 # Rules
 
-## SETUP 
+## SETUP 
 
 The game is for 2-6 players.
 
